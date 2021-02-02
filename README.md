@@ -4,9 +4,6 @@ Templates for react native using react native v5 and vector icons. This has 3 te
 Clone the repo and run npm install
 This will install all the required dependencies.
 
-For Navigation Drawer Only
-run "npm uninstall @react-navigation/material-top-tabs @react-navigation/bottom-tabs"
-
 
 # Screen Shots
 
