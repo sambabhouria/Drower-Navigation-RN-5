@@ -10,5 +10,5 @@ run "npm uninstall @react-navigation/material-top-tabs @react-navigation/bottom-
 
 # Screen Shots
 
-<img src="src/images/a.png" width="300" height="300"/><img src="src/images/b.png" width="300" height="300"/>
-<img src="src/images/c.png" width="300" height="300"/><img src="src/images/d.png" width="300" height="300"/>
+<img src="src/assets/images/a.png" width="300" height="300"/><img src="src/assets/images/b.png" width="300" height="300"/>
+<img src="src/assets/images/c.png" width="300" height="300"/><img src="src/assets/images/d.png" width="300" height="300"/>
